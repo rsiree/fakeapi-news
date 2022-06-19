@@ -1,0 +1,15 @@
+{
+  "name": "refetch-interval",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "0.17.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.21"
+  }
+}
